@@ -2,4 +2,4 @@ syntax = "proto3";
 
 package common;
 
-option go_package = "dev-gitlab.wanxingrowth.com/jian.liu/service-protos/proto/commonpb";
+option go_package = "github.com/liuliliujian/go-service-protos/proto/commonpb";

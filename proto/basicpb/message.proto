@@ -2,7 +2,7 @@ syntax = "proto3";
 
 package basic;
 
-option go_package = "dev-gitlab.wanxingrowth.com/jian.liu/service-protos/proto/basicpb";
+option go_package = "github.com/liuliliujian/go-service-protos/proto/basicpb";
 
 import "google/protobuf/timestamp.proto";
 
